@@ -1,3 +1,2 @@
 c
-glglgl
-중요한 수정 사항
+glglgl 수정수정수정
